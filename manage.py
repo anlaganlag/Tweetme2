@@ -2,8 +2,7 @@
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
-
-
+print("vscode 配置")
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'tweetme2.settings')
     try:
